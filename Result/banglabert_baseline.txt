@@ -1,0 +1,17 @@
+BANGLABERT BASELINE RESULTS
+============================================================
+                precision    recall  f1-score   support
+
+          None     0.8449    0.8134    0.8289      1447
+       Abusive     0.5458    0.5428    0.5443       549
+Political Hate     0.5758    0.6714    0.6199       283
+       Profane     0.7720    0.8054    0.7884       185
+Religious Hate     0.4800    0.6000    0.5333        40
+        Sexism     0.0000    0.0000    0.0000         8
+
+      accuracy                         0.7317      2512
+     macro avg     0.5364    0.5722    0.5525      2512
+  weighted avg     0.7354    0.7317    0.7328      2512
+
+Macro F1: 0.5525
+Micro F1: 0.7317
