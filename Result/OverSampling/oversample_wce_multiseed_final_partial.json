@@ -1,0 +1,23 @@
+[
+  {
+    "seed": 42,
+    "best_threshold": 0.35,
+    "macro_f1": 0.5735,
+    "micro_f1": 0.6963,
+    "sexism_f1": 0.1667
+  },
+  {
+    "seed": 123,
+    "best_threshold": 0.3,
+    "macro_f1": 0.5827,
+    "micro_f1": 0.7158,
+    "sexism_f1": 0.1667
+  },
+  {
+    "seed": 2024,
+    "best_threshold": 0.35,
+    "macro_f1": 0.5861,
+    "micro_f1": 0.7138,
+    "sexism_f1": 0.1818
+  }
+]
