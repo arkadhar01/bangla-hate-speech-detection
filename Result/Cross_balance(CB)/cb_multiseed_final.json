@@ -1,0 +1,33 @@
+{
+  "per_seed_results": [
+    {
+      "seed": 42,
+      "best_threshold": 0.2,
+      "macro_f1": 0.5881,
+      "micro_f1": 0.7178,
+      "sexism_f1": 0.1905
+    },
+    {
+      "seed": 123,
+      "best_threshold": 0.35,
+      "macro_f1": 0.5948,
+      "micro_f1": 0.7257,
+      "sexism_f1": 0.2667
+    },
+    {
+      "seed": 2024,
+      "best_threshold": 0.4,
+      "macro_f1": 0.6072,
+      "micro_f1": 0.7353,
+      "sexism_f1": 0.2667
+    }
+  ],
+  "summary": {
+    "macro_f1_mean": 0.5967,
+    "macro_f1_std": 0.0079,
+    "micro_f1_mean": 0.7263,
+    "micro_f1_std": 0.0072,
+    "sexism_f1_mean": 0.2413,
+    "sexism_f1_std": 0.0359
+  }
+}
